@@ -1,5 +1,5 @@
 const copyAndPush = (arr, num) => {
-  arr.push(num);
+  arr = [...arr, num];
   return arr;
 };
 
