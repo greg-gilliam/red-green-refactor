@@ -1,8 +1,7 @@
 // import fetch from 'node-fetch';
 
 // const fetchQuotes = async() => {
-//     const url = 'http://futuramaapi.herokuapp.com/quotes';
-//     const res = await fetch(url);
+//     const res = await fetch('https://futuramaapi.herokuapp.com/api/quotes');
 //     const body = await res.json();
 
 //     return body.map(())
